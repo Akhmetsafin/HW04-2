@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project_C#\\Matrix_FIO\\Matrix_FIO\\Matrix_FIO.csproj",
+      "projectUniqueName": "D:\\HomeworkGB\\HW04-2\\Matrix_FIO\\Matrix_FIO.csproj",
       "projectName": "Matrix_FIO",
-      "projectPath": "D:\\Project_C#\\Matrix_FIO\\Matrix_FIO\\Matrix_FIO.csproj",
+      "projectPath": "D:\\HomeworkGB\\HW04-2\\Matrix_FIO\\Matrix_FIO.csproj",
       "packagesPath": "C:\\Users\\ArturiK\\.nuget\\packages\\",
-      "outputPath": "D:\\Project_C#\\Matrix_FIO\\Matrix_FIO\\obj\\",
+      "outputPath": "D:\\HomeworkGB\\HW04-2\\Matrix_FIO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

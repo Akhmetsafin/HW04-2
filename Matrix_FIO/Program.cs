@@ -76,7 +76,7 @@ namespace Matrix_FIO
                     Console.Write($"\t{dbFIO[i, j]}");
                 }
                 Console.WriteLine();
-            }
+            }//Final
         }
         
     }
