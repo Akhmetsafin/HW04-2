@@ -1,0 +1,16 @@
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.exe
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.deps.json
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.runtimeconfig.json
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.runtimeconfig.dev.json
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.dll
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ref\ReMake_FIO.dll
+D:\HomeworkGB\HW04-2\ReMake_FIO\bin\Debug\net5.0\ReMake_FIO.pdb
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.csprojAssemblyReference.cache
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.AssemblyInfo.cs
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.dll
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ref\ReMake_FIO.dll
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.pdb
+D:\HomeworkGB\HW04-2\ReMake_FIO\obj\Debug\net5.0\ReMake_FIO.genruntimeconfig.cache
